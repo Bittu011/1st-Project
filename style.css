@@ -1,0 +1,123 @@
+*{
+    margin: 0;
+    padding: 0;
+}    
+
+body{
+    overflow-x: hidden;
+}
+
+.head {
+    letter-spacing: .5rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.cats{
+    font-size: xx-large;
+}
+
+.home{
+    text-decoration: none;
+    color: black;
+}
+
+.home:hover{
+    color: red;
+}
+
+.first{
+    background-image: url(./Himalayan\ Cats.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+.name{
+    color: white;
+    padding-top: 120px;
+}
+
+.name_1{
+    color: white;
+    padding-top: 140px;
+    padding-left: 0px;
+}
+
+.second{
+    background-image: url(./American\ Curl.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+.name1{
+    color: black;
+    padding-top: 140px;
+    padding-left: 0px;
+}
+
+.name_2{
+    font-size: larger;
+    font-weight: 700;
+    color: black;
+    padding-top: 80px;
+    padding-left: none;
+}
+
+.third{
+    background-image: url(./Aegea\ Greece.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+.name2{
+    color: black;
+    padding-top: 100px;
+    padding-left: 0px;
+}
+
+.name_3{
+    font-size: large;
+    font-weight: 700;
+    color: black;
+    padding-top: 120px;
+    padding-left: none;
+}
+
+.fourth{
+    background-image: url(./Billy\ 1.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+.name3{
+    color: black;
+    padding-top: 100px;
+    padding-left: 0px;
+}
+
+.name_4{
+    font-size: large;
+    font-weight: 700;
+    color: black;
+    padding-top: 200px;
+    padding-left: none;
+}
+
+.footer{
+    background-color: black;
+    background-size: cover;
+    height: 50vh;
+}
+
+.footer a{
+    color: white;
+    
+}
